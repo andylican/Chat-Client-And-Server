@@ -1,7 +1,9 @@
-/* [ChatServer.java]
- * You will need to modify this so that received messages are broadcast to all clients
- * @author Mangat
- * @ version 1.0a
+/* ChatServer.java
+ * Version: 1.0
+ * @author Andy Li
+ * Date: 05-29-2020
+ * Description: Opens a port and starts a chat server, that allows clients to connect and communicate with each other. Allows clients to direct message each other
+ or talk in group chats. Paired with Theo Liu's Client.
  */
 
 //imports for network communication
